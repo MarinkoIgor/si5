@@ -1,0 +1,27 @@
+.Wrapper--modules {
+  max-width: 1151px;
+  margin: 20px auto;
+}
+
+.Button--reload {
+  width: 163px;
+  height: 50px;
+  color: #fff;
+  background: #0033FF;
+  border: none;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.Button--reload:hover {
+  opacity: 0.8
+}
+
+.Wrapper__button--reload {
+  text-align: right;
+}
+
+.Icon__button--reload {
+  vertical-align: top;
+  margin-left: 36px;
+}

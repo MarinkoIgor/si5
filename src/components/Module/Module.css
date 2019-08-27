@@ -1,0 +1,47 @@
+.Wrapper--module {
+  margin-bottom: 45px;
+}
+
+.Module {
+  height: 99px;
+  border: 2px solid #E5E5E5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  background: #F8FAFF;
+  color: #0033FF;
+}
+
+.Modal--active {
+  background: #F8FFF8
+}
+
+.Wrapper--title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Title--module {
+  margin: 0 0 0 15px;
+  font-size: 15px;
+}
+
+.Wrapper--icon {
+  width: 39px;
+  height: 39px;
+  display: inline-block;
+  position: relative;
+  border: 2px solid #E5E5E5;
+  border-radius: 30px;
+  background: #fff;
+  margin-left: 25px;
+  cursor: pointer;
+  outline: none;
+}
+
+.Hidden {
+  display: none;
+}
